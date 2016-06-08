@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.954958
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_027-0702a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第二十七¶
+大方廣佛華嚴經疏卷第二十七¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -564,8 +563,7 @@
 中一方有多數量。次以方例剎。後以剎例¶
 法界。一方所言義兼大小。準下僧祇品。於¶
 一微細毛端處。則有不可說諸普賢也。言¶
-如是者如前具德也。第二佛子菩薩摩訶¶
-薩以諸善根方便迴向下。總攝迴向。非唯但¶
+如是者如前具德也。第二佛子菩薩摩訶薩以諸善根方便迴向下。總攝迴向。非唯但¶
 向佛淨土故。文有十句。初三結前已說後¶
 七辨所未明言出要者。小乘出要。唯有四¶
 種。謂進念定慧。三十七品不離此故。今亦¶

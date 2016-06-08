@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:30.112879
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_056-0922b> ¶
 #+PROPERTY: JUAN 56
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第五十六¶
+大方廣佛華嚴經疏卷第五十六¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -198,8 +197,7 @@
 十二念應。十三亦念應。然上十一境中見佛。¶
 或謂諸佛住於境中。今明知諸佛無住故。¶
 遠離時處之想。則見一日念念而去。十四¶
-念報身相好眼耳等。皆遍法界故。十五中¶
-念即體之用。前第六微細。顯依中有正。此¶
+念報身相好眼耳等。皆遍法界故。十五中念即體之用。前第六微細。顯依中有正。此¶
 約正中有正故不濫前。十六念劫圓融故。¶
 上二皆即體之用。十七念內德。十八十九皆¶
 念色相。二十念依。二十一通內外真應等¶

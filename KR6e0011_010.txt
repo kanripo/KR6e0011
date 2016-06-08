@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.413885
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_010-0567b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第十¶
+大方廣佛華嚴經疏卷第十¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -217,11 +216,7 @@
 以結通菩薩雲集尤顯上歎。是彼十方。遠方¶
 便竟。¶
 
-3普賢三昧品
-:PROPERTIES:
-:head: 普賢三昧品第三(入第七經初)
-:END:
-¶
+* 普賢三昧品第三(入第七經初)¶
 
 將釋此品四門同前。初來意者。前眾既集¶
 光示法主。今將說法。是故法主入定受加¶

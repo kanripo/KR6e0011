@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:30.159898
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_057-0931c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 57
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第五十七¶
+大方廣佛華嚴經疏卷第五十七¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -699,7 +698,7 @@
 悲。障行劣故不同前二。又於前二已調伏¶
 故。此中不疑。三其中有人先知下深智讚教。¶
 先讚。後善男子婆須下教示所在。市者喧雜。¶
-北主於滅。自宅即畢竟空寂。謂在欲行禪。¶
+北主於滅。自宅即畢意空寂。謂在欲行禪。¶
 處喧常寂故。在市廛之北等。四時善財下¶
 依教往詣。第二見其下見敬諮問。見中先¶
 見依報。畢竟空中無德不具故。廣顯其嚴。¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.140962
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0011_T_004-0526c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6e0011_T_004-0526c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第四¶
+大方廣佛華嚴經疏卷第四¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -427,7 +426,7 @@
 哉。空乃高而無上。深不可測。廣而無外邊¶
 不可窮。妙乃即事而真。好謂具德無缺。二¶
 摩尼下六句體德圓備。一座臺。摩尼即處¶
-中正可依處。摩尼隨映有差。法空隨緣¶
+中正＋（正）【甲】正正可依處。摩尼隨映有差。法空隨緣¶
 成異。中道妙理正是可依。二周座華網。即¶
 外相無染交映本空。三淨寶為輪。輪謂臺之¶
 處中周匝。輪圍即具德周遍。四華纓周垂。諸¶

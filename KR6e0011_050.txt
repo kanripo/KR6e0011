@@ -1,26 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:29.791253
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_050-0880c> ¶¶
 #+PROPERTY: JUAN 50
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第五十¶
+大方廣佛華嚴經疏卷第五十¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
 (已下入第五十二經)第五明出現境界。正顯分齊之境。兼¶
 辨所緣之境。依初義者。前約智以顯心。此¶
 正明智用分齊。依後義者。前明能知今辨¶
-所緣。由所緣無邊故。顯分齊難思。分齊難¶
-思故方窮所緣之境。二義相成如函蓋相¶
+所緣。由所緣無邊故。顯分齊難思。分齊難思故方窮所緣之境。二義相成如函蓋相¶
 稱。文中長行分三。謂標釋結。釋中二。先法¶
 後喻。法中亦二。先廣取所緣顯分齊境。後¶
 近取諸心以況佛境。前中又二。先列所緣¶

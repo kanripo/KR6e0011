@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.637200
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_017-0626b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第十七¶
+大方廣佛華嚴經疏卷第十七¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
-13升須彌山頂品
-:PROPERTIES:
-:head: 升須彌山頂品第十三(已下第十六經)
-:END:
-¶
+* 升須彌山頂品第十三(已下第十六經)¶
 
 初來意者。先辨會來。前信此解。義次第故。¶
 又答十住問總有二段。前信是住之方便。¶
@@ -234,11 +229,7 @@
 覺智現前。忽然廣博則身心無際。十方已下¶
 結無盡。唯結後四前已結故。¶
 
-14須彌頂上偈讚品
-:PROPERTIES:
-:head: 須彌頂上偈讚品第十四
-:END:
-¶
+* 須彌頂上偈讚品第十四¶
 
 初來意者。既明化主赴感。今辨助化讚揚。
 <pb:KR6e0011_T_017-0629a>¶
@@ -593,11 +584,7 @@
 顯僧寶。次三頌半見聞利益。後一頌半結德¶
 無盡。此為終極故總舉前十。¶
 
-15十住品
-:PROPERTIES:
-:head: 十住品第十五
-:END:
-¶
+* 十住品第十五¶
 
 初來意者。上由致既彰正宗宜顯。故次來也。¶
 又前辨所依佛德。今辨能依十住。故次來¶

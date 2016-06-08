@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:29.363114
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_038-0793c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 38
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第三十八¶
+大方廣佛華嚴經疏卷第三十八¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -60,7 +59,7 @@
 此可知。又不作煩惱所染。異凡夫業作。順¶
 菩薩道業則異二乘。第二成德果中有四。¶
 一於勝功德生增上心欲果。二彼說法尊中¶
-起報恩心果。三彼方便行中發勤精進果。四¶
+起報恩　果。三彼方便行中發勤精進果。四¶
 彼增上欲本心界滿足果。此之四果。前三從¶
 前生後一復從此三果生。前中初二護小¶
 心果。後一護小行果。前中初果者。由本欲

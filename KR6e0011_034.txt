@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:29.206730
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_034-0760a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第三十四¶
+大方廣佛華嚴經疏卷第三十四¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -92,8 +91,7 @@
 心外攀如山治之。二者不能調伏憶想分¶
 別。一切智心治之。下之三句治般若三垢。¶
 即三道障。謂七不捨成就求。治障不住道垢。¶
-謂無善巧方便一向涅槃。現不捨世間治¶
-之。一向世間現成就出世治之。異於凡小¶
+謂無善巧方便一向涅槃。現不捨世間治之。一向世間現成就出世治之。異於凡小¶
 成不住道。八者集求。治障助道垢。九者常¶
 求。求治障證道垢。於上勝妙證法之中。願¶
 欲心薄故。上來迴向成就竟。第三總結者。上¶

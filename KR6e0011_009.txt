@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.393645
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_009-0562a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第九¶
+大方廣佛華嚴經疏卷第九¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
-2如來現相品
-:PROPERTIES:
-:head: 如來現相品第二(此下第二正宗分從第六經盡第十一)
-:END:
-¶
+* 如來現相品第二(此下第二正宗分從第六經盡第十一)¶
 
 將釋此品四門分別。一來意。二釋名。三宗¶
 趣。四釋文。然下諸品多用此四。若有增減¶

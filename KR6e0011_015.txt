@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.570959
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_015-0608c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第十五¶
+大方廣佛華嚴經疏卷第十五¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -400,11 +399,7 @@
 此。總為一法界大會。思之。問明品辨信中¶
 解竟。¶
 
-11淨行品
-:PROPERTIES:
-:head: 淨行品第十一(入第十四經)
-:END:
-¶
+* 淨行品第十一(入第十四經)¶
 
 釋此一品五門分別。初來意者。夫欲階妙¶
 位必資勝行。有解無行虛費多聞。故前¶
@@ -715,7 +710,7 @@
 修方便。次二正修止觀。後一修行事訖。第¶
 四下足住時下。明將行披挂時六願。下衣蓋¶
 醜故願得慚愧。上衣即衫襖之輩。前已辨¶
-袈裟故。此直云僧伽梨。僧伽梨者義云和¶
+袈娑故。此直云僧伽梨。僧伽梨者義云和¶
 合。新者二種。故者四種。要以重成故云和¶
 合。即是三衣中第一衣故。第五手執楊枝下。¶
 澡漱盥洗時有七願。楊枝五利是曰妙法。去¶

@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.780651
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_022-0660a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第二十二¶
+大方廣佛華嚴經疏卷第二十二¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
-21十行品
-:PROPERTIES:
-:head: 十行品第二十一(從第十九經半盡第二十一經)
-:END:
-¶
+* 十行品第二十一(從第十九經半盡第二十一經)¶
 
 來意有二。一前序此正故。二前辨所依佛智。¶
 此辨能依之行故。二釋名者。隨緣順理¶
@@ -31,8 +26,7 @@
 可知。四釋文者。此品不同前二。有行德¶
 者以行為主。故略無之。又行德已純熟進¶
 趣中收。故唯一品義當行中之解。品有七¶
-分。一三昧分。二加分。三起分。四本分。五說¶
-分。六現證分。七重頌分。今初三昧分。功德林¶
+分。一三昧分。二加分。三起分。四本分。五說分。六現證分。七重頌分。今初三昧分。功德林¶
 入者為眾首故。表說十行眾德建立故。承¶
 佛神力是入定因。入菩薩善思惟者。顯定別
 <pb:KR6e0011_T_022-0660b>¶

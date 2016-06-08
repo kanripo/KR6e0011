@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.060450
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_002-0509b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第二¶
+大方廣佛華嚴經疏卷第二¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
@@ -237,8 +236,7 @@
 經。明知法華居後。故經云臨欲終時。若不¶
 信法華居後涅槃臨終。居然可信。豈不¶
 亦以一乘一性破三五耶。若以般若。為第¶
-二時。法華為第三時。於理即通。復自違深¶
-密第三時中。普為發趣一切乘者。以法華¶
+二時。法華為第三時。於理即通。復自違深密第三時中。普為發趣一切乘者。以法華¶
 破三故。明知深密三時。不能定斷一切聖¶
 教。以未居最後故。且約顯一類義。故分¶
 三耳。義如前說。若將法華。望之應有四¶

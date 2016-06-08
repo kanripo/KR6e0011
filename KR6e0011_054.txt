@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:29.936734
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_054-0907c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 54
 ¶
 ¶
-
- 大方廣佛華嚴經疏卷第五十四¶
+大方廣佛華嚴經疏卷第五十四¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
-39入法界品
-:PROPERTIES:
-:head: 入法界品第三十九(已下入第六十經)
-:END:
-¶
+* 入法界品第三十九(已下入第六十經)¶
 
 初來意者。先辨分來。夫行因證立證藉行¶
 深。前分託法行成故。此依人入證。亦為遠¶
@@ -492,8 +487,7 @@
 不得爾故。不同餘處現法體用俱有。過未¶
 體用皆無。況於小乘三世有耶。以彼過未¶
 有體無用故。第二如是十方下通讚德行¶
-中三。初總。次以淨智下別。後如是等下¶
-結。就別讚中三十四句分三。初五句明上¶
+中三。初總。次以淨智下別。後如是等下結。就別讚中三十四句分三。初五句明上¶
 近諸佛德。二於一塵中下十四句。下攝眾生¶
 德。三一切菩薩神通下十五句。大用自在德。¶
 亦名三種三業。今初一淨眼見佛即是意業。¶

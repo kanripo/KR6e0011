@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:29.638736
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1735
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0011_T_046-0850a> 
 #+PROPERTY: JUAN 46
 ¶
-
- 大方廣佛華嚴經疏卷第四十六¶
+大方廣佛華嚴經疏卷第四十六¶
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
-28十通品
-:PROPERTIES:
-:head: 十通品第二十八(已下入第四十四經)
-:END:
-¶
+* 十通品第二十八(已下入第四十四經)¶
 
 初來意為答第二會中十通問故。以二品¶
 明業用廣大。前定。此通。義次第故。亦由依¶
@@ -221,11 +216,7 @@
 方測故。大文第四佛子是為下結數辨果。文¶
 顯可知。¶
 
-29十忍品
-:PROPERTIES:
-:head: 十忍品第二十九
-:END:
-¶
+* 十忍品第二十九¶
 
 初來意者。為答普光十頂問故。義如前釋。¶
 前二已明通定用廣。今此辨其智慧深奧故¶
