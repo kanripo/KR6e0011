@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:28.780651
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經疏
 #+PROPERTY: CBETA_ID T35n1735
 #+PROPERTY: ID KR6e0011
@@ -16,7 +16,8 @@
 ¶
 唐清涼山大華嚴寺沙門澄觀撰¶
 
-21十行品
+* 21十行品
+** 1
 :PROPERTIES:
 :head: 十行品第二十一(從第十九經半盡第二十一經)
 :END:
